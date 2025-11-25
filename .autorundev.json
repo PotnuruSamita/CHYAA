@@ -1,0 +1,6 @@
+{
+  "chyuu": {
+    "path": "./.",
+    "start": "npm run dev"
+  }
+}
